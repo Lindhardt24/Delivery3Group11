@@ -1,0 +1,26 @@
+
+Din stressrapport: Du er moderat stresset. 
+Det kan du læse mere om i dette afsnit.
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies. 
+Purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+Proin pharetra nonummy pede. Mauris et orci.
+Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. 
+
+Vi anbefaler derfor at du: 
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. 
+Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies. 
+Purus lectus malesuada libero, sit amet commodo magna eros quis urna.
+Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+Proin pharetra nonummy pede. Mauris et orci.
+Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.
+Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. 
+
+Hvis du vil lære mere om stress kan du gå ind på sundhedsstyrelsens hjemmeside for at lære mere
+https://www.sst.dk/da/viden/mental-sundhed/stress
