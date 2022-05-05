@@ -2,8 +2,9 @@
 # Dette script er lavet for at vise hvordan en rapport kan genereres i en PDF fil.
 # Der bruges en random tal generator som stress skalaen og genereringen tager udgangspunkt i denne.
 # De random tal står i stedet for egentlig data som ville komme gennem en måling med headbandet.
+
 # ******************************** Install før script køres********************************************
-# python3 -m pip3 install fpdf
+# ------------------------------ python3 -m pip3 install fpdf------------------------------------------
 # Encodings importeres for at bruge utf_8 til at få flest mulige tegn/bogstaver med i rapporten herunder æ, ø og å.
 # Random importeres for at kunne generere random tal til stress skalaen.
 from encodings import utf_8
