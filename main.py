@@ -1,16 +1,21 @@
 # *************************************** MAIN.PY******************************************************
-# OBS: Læs README fil før script startes!
-# encodings importeres for at bruge utf_8 til at få flest mulige tegn/bogstaver med i rapporten. 
-# Herunder æ, ø og å.
-# 
+# Dette script er lavet for at vise hvordan en rapport kan genereres i en PDF fil.
+# Der bruges en random tal generator som stressskalaen og genereringen tager udgangspunkt i denne.
+# De random tal står i stedet for egentlig data som ville komme gennem en måling med headbandet.
+# ******************************** Install før script køres********************************************
+
+# Encodings importeres for at bruge utf_8 til at få flest mulige tegn/bogstaver med i rapporten herunder æ, ø og å.
+# Random importeres for at kunne generere random tal til stresskalaen.
 from encodings import utf_8
 from fpdf import FPDF
 import random
 
 # Variablen n initieres ved at den assignes et random tal mellem 1-10 hver gang scriptet køres.
 n = random. randint(1,10) 
-# Variablen user assignes det brugernavn som gives i inputet. 
+
+# Her indtastes det brugernavn der bruges i Appen. 
 user = input("Skriv dit brugernavn her: ")
+
 # Gemmer pdf klassen som en variabel
 pdf = FPDF()
 
@@ -38,7 +43,7 @@ def openfile ():
         f = open("stress4.txt", "r")
 
 # Dette forloop indsætter teksten og sætter reglerne ift formatteringen af teksten
-# Ydermere gives der rapportens billede, der indsættes oppe i højre hjørne.
+# Ydermere addes rapportens billede, der indsættes oppe i højre hjørne.
 for x in f:
     pdf.cell(200, 10, txt = x, ln = 1, align = 'Left', border=0)
     pdf.image('logo1.png',205,35,-30);
