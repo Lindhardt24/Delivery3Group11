@@ -52,6 +52,7 @@ for x in f:
 pdf.output(user + "srapport.pdf")
 
 # Underliggende print statement fortæller brugeren at der nu vil blive genereret en rapport i en PDF fil.
+# Filen kan findes i samme mappe, som dette repository er gemt i.
 print("Hej " + user + ". Du scorer " + str(n) + " på stress skalaen. " + 
 "Du får nu printet din rapport som en PDF fil")
 
